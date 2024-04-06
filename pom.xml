@@ -7,7 +7,7 @@
     <groupId>pro.dracarys</groupId>
     <artifactId>waterlogfix</artifactId>
     <name>WaterlogFix</name>
-    <version>1.5</version>
+    <version>1.6</version>
     <packaging>jar</packaging>
     <url>https://dracarys.pro</url>
 
